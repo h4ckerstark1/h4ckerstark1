@@ -1,22 +1,26 @@
-<h1> Hi👋, I'm Ayush Sharma </h1>
-<h2>A passionate Bug Hunter | Web Pentester | Founder of Casyfi.shop from India</h2>
-Email Me 👉 ✉️<i>hackerteam376@gmail.com</i>  for collaboration, projects, or anything else 😊
+<div align="center">
 
-🔭 I’m currently working on: Bug bounty hunting & improving my recon skills
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ayush+Sharma;Bug+Hunter+%7C+Go+Developer;Building+Sukku+Recon+Framework;Future+Cybersecurity+Founder" />
 
-🌱 I’m currently learning: Advanced web pentesting, XSS, and recon techniques
+### 🛡️ Bug Hunter • Go Developer • Security Researcher
 
-👯 I’m looking to collaborate on: Cybersecurity projects, bug bounty research
+<img src="https://komarev.com/ghpvc/?username=h4ckerstark1&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 
-🤔 I’m looking for help with: Scaling my bug bounty workflow & automation tools
+</div>
 
-💬 Ask me about: Web security, bug hunting, recon tools
-
-📫 How to reach me: hackerteam376@gmail.com
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I enjoy breaking systems to make them more secure
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ h4ckerstark1@github:~$ whoami                                │
+├──────────────────────────────────────────────────────────────┤
+│ 👤 Name      : Ayush Sharma                                  │
+│ 💻 Role      : Bug Hunter & Go Developer                     │
+│ 🚀 Project   : Sukku - Recon Framework                       │
+│ 🛡️ Focus     : Web Security • Recon • OSINT                  │
+│ 🤖 Learning  : AI + Cyber Security                           │
+│ 🌍 Country   : India 🇮🇳                                      │
+│ 🎯 Goal      : Build a Cybersecurity Startup                 │
+└──────────────────────────────────────────────────────────────┘
+```
 
 # 💫 About Me:
 
