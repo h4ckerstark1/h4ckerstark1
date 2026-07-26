@@ -122,15 +122,7 @@ Status    : Online 🟢
 </div>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│ 👋 Name        : Ayush Sharma                               │
-│ 🛡️ Role        : Bug Hunter | Security Researcher           │
-│ 💻 Language    : Go • Python • Bash                         │
-│ 🚀 Building    : Sukku - Recon Framework                    │
-│ 🔍 Focus       : Recon • Web Security • OSINT               │
-│ 🤖 Learning    : AI Security & Automation                   │
-│ 🎯 Mission     : Build next-generation security tools       │
-└──────────────────────────────────────────────────────────────┘
+
 ```
 
 ### 🚀 Current Focus
