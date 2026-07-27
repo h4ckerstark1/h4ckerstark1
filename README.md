@@ -24,11 +24,6 @@ Status    : Online 🟢
 - 🤖 Exploring AI for Cybersecurity
 - 🎯 Building a cybersecurity startup
 
-</td>
-
-</tr>
-</table>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0066FF&height=3"/>
 </p>
@@ -133,17 +128,47 @@ Status    : Online 🟢
 
 ---
 
-<div align="center">
+<h2 align="center">🚀 Featured Engineering Projects</h2>
 
-# <img src="https://img.shields.io/badge/Featured%20Projects-2563EB?style=for-the-badge&logo=rocket&logoColor=white"/>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### ⚙️ Sukku
+Recon Framework built with Go for bug hunters.
 
-| 🚀 Project | 📖 Description |
-|------------|----------------|
-| **Sukku** | Recon Framework built with Go for bug hunters |
-| **Bug Hunting Checklist** | Professional checklist for security researchers |
-| **AI Bug Hunter (Coming Soon)** | AI-powered assistant for reconnaissance & bug hunting |
+[![CODE](https://img.shields.io/badge/-CODE-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h4ckerstark1/Sukku)
+[![GITHUB](https://img.shields.io/badge/-GITHUB-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/h4ckerstark1/Sukku)
+[![VISIT](https://img.shields.io/badge/-VISIT-555555?style=for-the-badge&logo=rocket&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 Bug Hunting Checklist
+Professional checklist for security researchers.
+
+[![CODE](https://img.shields.io/badge/-CODE-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h4ckerstark1/Bug-hunting-checklist)
+[![GITHUB](https://img.shields.io/badge/-GITHUB-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/h4ckerstark1/Bug-hunting-checklist)
+[![VISIT](https://img.shields.io/badge/-VISIT-555555?style=for-the-badge&logo=rocket&logoColor=white)](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Bug Hunter
+AI-powered assistant for reconnaissance & bug hunting. *(Coming Soon)*
+
+[![STATUS](https://img.shields.io/badge/-COMING%20SOON-8A2BE2?style=for-the-badge)](#)
+[![VISIT](https://img.shields.io/badge/-VISIT-555555?style=for-the-badge&logo=rocket&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ---
 
