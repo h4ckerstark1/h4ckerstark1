@@ -129,7 +129,6 @@ Status    : Online 🟢
 ---
 
 <h2 align="center">🚀 Featured Engineering Projects</h2>
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -153,7 +152,6 @@ Professional checklist for security researchers.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -165,6 +163,13 @@ AI-powered assistant for reconnaissance & bug hunting. *(Coming Soon)*
 
 </td>
 <td width="50%" valign="top">
+
+### 🏠 Mera Basera
+Student Room & PG Finder — students search their college and find verified nearby rooms/PGs, with a roommate finder and owner registration built in.
+
+[![CODE](https://img.shields.io/badge/-CODE-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h4ckerstark1/mera-basera)
+[![GITHUB](https://img.shields.io/badge/-GITHUB-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/h4ckerstark1/mera-basera)
+[![VISIT](https://img.shields.io/badge/-VISIT-555555?style=for-the-badge&logo=rocket&logoColor=white)](https://mera-basera.netlify.app)
 
 </td>
 </tr>
