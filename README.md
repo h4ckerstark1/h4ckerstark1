@@ -9,7 +9,7 @@ Username : h4ckerstark1
 Role     : Bug Hunter
 Focus    : Web Pentesting
 Framework: Sukku
-Company  : Casyfi.shop
+Company  : Casyfi.shop, Mera Basera
 OS        : Linux
 Editor    : VS Code
 Language  : Go • Python • Bash
