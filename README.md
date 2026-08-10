@@ -151,9 +151,21 @@ Professional checklist for security researchers.
 [![VISIT](https://img.shields.io/badge/-VISIT-555555?style=for-the-badge&logo=rocket&logoColor=white)](#)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
+
+### ⏱️ Padhai Timer
+
+Study timer designed to help students stay focused and manage their study sessions.
+
+<a href="https://github.com/h4ckerstark1/padhai-timer">⚫ CODE</a>
+<a href="https://github.com/h4ckerstark1/padhai-timer">⚫ GITHUB</a>
+<a href="https://github.com/h4ckerstark1/padhai-timer">🚀 VISIT</a>
+
+</td>
+
+<td width="50%">
+
+</td>
 
 ### 🤖 AI Bug Hunter
 AI-powered assistant for reconnaissance & bug hunting. *(Coming Soon)*
