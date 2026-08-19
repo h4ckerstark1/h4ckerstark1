@@ -129,6 +129,13 @@ Status    : Online 🟢
 ---
 
 <h2 align="center">🚀 Featured Engineering Projects</h2>
+
+### 🤖 AI Bug Hunter
+AI-powered assistant for reconnaissance & bug hunting. *(Coming Soon)*
+
+[![STATUS](https://img.shields.io/badge/-COMING%20SOON-8A2BE2?style=for-the-badge)](#)
+[![VISIT](https://img.shields.io/badge/-VISIT-555555?style=for-the-badge&logo=rocket&logoColor=white)](#)
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -151,27 +158,16 @@ Professional checklist for security researchers.
 [![VISIT](https://img.shields.io/badge/-VISIT-555555?style=for-the-badge&logo=rocket&logoColor=white)](#)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ⏱️ Padhai Timer
-
 Study timer designed to help students stay focused and manage their study sessions.
 
-<a href="https://github.com/h4ckerstark1/padhai-timer">⚫ CODE</a>
-<a href="https://github.com/h4ckerstark1/padhai-timer">⚫ GITHUB</a>
-<a href="https://github.com/h4ckerstark1/padhai-timer">🚀 VISIT</a>
-
-</td>
-
-<td width="50%">
-
-</td>
-
-### 🤖 AI Bug Hunter
-AI-powered assistant for reconnaissance & bug hunting. *(Coming Soon)*
-
-[![STATUS](https://img.shields.io/badge/-COMING%20SOON-8A2BE2?style=for-the-badge)](#)
-[![VISIT](https://img.shields.io/badge/-VISIT-555555?style=for-the-badge&logo=rocket&logoColor=white)](#)
+[![CODE](https://img.shields.io/badge/-CODE-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h4ckerstark1/padhai-timer)
+[![GITHUB](https://img.shields.io/badge/-GITHUB-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/h4ckerstark1/padhai-timer)
+[![VISIT](https://img.shields.io/badge/-VISIT-555555?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/h4ckerstark1/padhai-timer)
 
 </td>
 <td width="50%" valign="top">
@@ -186,6 +182,7 @@ Student Room & PG Finder — students search their college and find verified nea
 </td>
 </tr>
 </table>
+
 
 ---
 
