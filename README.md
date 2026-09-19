@@ -131,7 +131,7 @@ Status    : Online 🟢
 <h2 align="center">🚀 Featured Engineering Projects</h2>
 
 ### 🤖 ARK - Local AI Assistant
-AI-powered personal assistant that runs entirely on your machine. Voice input, local LLM (Ollama), offline speech-to-text & text-to-speech.
+AI Research Kit (ARK) — A local AI assistant with voice interaction, Ollama/Mistral, and a JARVIS-style GUI.
 
 [![CODE](https://img.shields.io/badge/-CODE-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h4ckerstark1/ARK)
 [![GITHUB](https://img.shields.io/badge/-GITHUB-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/h4ckerstark1/ARK)
