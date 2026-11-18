@@ -2,18 +2,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=H4CKERSTARK1&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
 </p>
 
-# 👋 Ayush Sharma
+#  </> WHOAMI
 
 ```yaml
-Username : h4ckerstark1
-Role     : Bug Hunter
-Focus    : Web Pentesting
-Framework: Sukku
-Company  : Casyfi.shop, Mera Basera
+Username  : h4ckerstark1
+Name      : Ayush Sharma
+Role      : Bug Hunter | Security Researcher | Writer | Entrepreneur
+Focus     : Web Pentesting
+Framework : Sukku
+Company   :  Mera Basera
 OS        : Linux
 Editor    : VS Code
-Language  : Go • Python • Bash
+Language  : Go • Python • Bash • JavaScript • HTML • CSS
 Status    : Online 🟢
+Country   : India 🇮🇳
 ```
 
 ### 💙 About Me
@@ -37,20 +39,6 @@ Status    : Online 🟢
 <img src="https://komarev.com/ghpvc/?username=h4ckerstark1&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 
 </div>
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ h4ckerstark1@github:~$ whoami                                │
-├──────────────────────────────────────────────────────────────┤
-│ 👤 Name      : Ayush Sharma                                  │
-│ 💻 Role      : Bug Hunter & Go Developer                     │
-│ 🚀 Project   : Sukku - Recon Framework                       │
-│ 🛡️ Focus     : Web Security • Recon • OSINT                  │
-│ 🤖 Learning  : AI + Cyber Security                           │
-│ 🌍 Country   : India 🇮🇳                                      │
-│ 🎯 Goal      : Build a Cybersecurity Startup                 │
-└──────────────────────────────────────────────────────────────┘
-```
 
 ### 🚀 Current Focus
 - 🔭 Building **Sukku** Recon Framework
