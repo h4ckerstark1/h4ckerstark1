@@ -30,9 +30,9 @@ Status    : Online 🟢
 
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ayush+Sharma;Bug+Hunter+%7C+Go+Developer;Building+Sukku+Recon+Framework;Future+Cybersecurity+Founder" />
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ayush+Sharma;Bug+Hunter+%7C+Developer;Building+Sukku+Recon+Framework;Future+Cybersecurity+Founder" />
 
-### 🛡️ Bug Hunter • Go Developer • Security Researcher
+### 🛡️ Bug Hunter • Developer • Security Researcher • Writer • Entrepreneur
 
 <img src="https://komarev.com/ghpvc/?username=h4ckerstark1&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 
