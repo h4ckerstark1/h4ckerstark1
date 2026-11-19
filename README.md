@@ -9,7 +9,7 @@ Username  : h4ckerstark1
 Name      : Ayush Sharma
 Role      : Bug Hunter | Security Researcher | Writer | Entrepreneur
 Focus     : Web Pentesting
-Company   :  Mera Basera
+Company   : Mera Basera
 Language  : Go • Python • Bash • JavaScript • HTML • CSS
 Country   : India 🇮🇳
 ```
